@@ -47,6 +47,14 @@ class RestaurantDetails extends StatelessWidget {
                           fontWeight: FontWeight.bold,
                         ),
                   ),
+                  const Text(
+                    "New release",
+                    style: TextStyle(
+                      fontFamily: 'Robot',
+                      fontSize: 20,
+                      color: Colors.red,
+                    ),
+                  ),
                 ],
               ),
             ),
