@@ -215,7 +215,7 @@ class _HomePageState extends State<HomePage> {
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: <Widget>[
                             const Text(
-                              "BorlaDaakye is a simple waste recycling\n"
+                              "Restaurant repo is a simple restaurant recycling\n"
                               "app to cater for your waste and to earn \n",
                               style: TextStyle(
                                 color: Colors.white,
